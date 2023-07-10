@@ -1,1 +1,1 @@
-# Learning end to end machine learning prohecty execution
+# Learning end to end machine learning project execution
