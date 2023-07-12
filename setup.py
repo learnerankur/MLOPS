@@ -22,7 +22,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name='ML_END_TO_END',
+    name='ML_end_to_end',
     version='0.0.1',
     author='Ankur Chaudhary',
     author_email='abc@gmail.com',
