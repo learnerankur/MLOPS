@@ -1,8 +1,8 @@
 pandas
 numpy
 seaborn
-scikit-learn
+scikit-learn<=1.2.0
 catboost
 xgboost
 dill
-#-e .
+-e .
